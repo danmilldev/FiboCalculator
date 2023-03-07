@@ -1,0 +1,15 @@
+G:\C# Console Apps\FiboCalculator\bin\Debug\net6.0\FiboCalculator.exe
+G:\C# Console Apps\FiboCalculator\bin\Debug\net6.0\FiboCalculator.deps.json
+G:\C# Console Apps\FiboCalculator\bin\Debug\net6.0\FiboCalculator.runtimeconfig.json
+G:\C# Console Apps\FiboCalculator\bin\Debug\net6.0\FiboCalculator.dll
+G:\C# Console Apps\FiboCalculator\bin\Debug\net6.0\FiboCalculator.pdb
+G:\C# Console Apps\FiboCalculator\obj\Debug\net6.0\FiboCalculator.csproj.AssemblyReference.cache
+G:\C# Console Apps\FiboCalculator\obj\Debug\net6.0\FiboCalculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Console Apps\FiboCalculator\obj\Debug\net6.0\FiboCalculator.AssemblyInfoInputs.cache
+G:\C# Console Apps\FiboCalculator\obj\Debug\net6.0\FiboCalculator.AssemblyInfo.cs
+G:\C# Console Apps\FiboCalculator\obj\Debug\net6.0\FiboCalculator.csproj.CoreCompileInputs.cache
+G:\C# Console Apps\FiboCalculator\obj\Debug\net6.0\FiboCalculator.dll
+G:\C# Console Apps\FiboCalculator\obj\Debug\net6.0\refint\FiboCalculator.dll
+G:\C# Console Apps\FiboCalculator\obj\Debug\net6.0\FiboCalculator.pdb
+G:\C# Console Apps\FiboCalculator\obj\Debug\net6.0\FiboCalculator.genruntimeconfig.cache
+G:\C# Console Apps\FiboCalculator\obj\Debug\net6.0\ref\FiboCalculator.dll
