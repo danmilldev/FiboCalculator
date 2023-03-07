@@ -3,7 +3,7 @@ Console.Write("Amount: ");
 
 int amount = Convert.ToInt32(Console.ReadLine());
 
-List<int> fiboList = new List<int> { 0, 1, 1 };
+List<int> fiboList = new() { 0, 1, 1 };
 
 for (int i = 2; i < amount; i++)
 {
