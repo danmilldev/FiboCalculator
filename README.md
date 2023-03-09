@@ -1,3 +1,3 @@
 # FiboCalculator
  
-## Simple Fibonacci Console Application
+## Simple Fibonacci Console Application Calculator
